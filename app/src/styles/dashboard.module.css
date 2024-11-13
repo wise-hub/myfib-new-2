@@ -1,0 +1,26 @@
+/* src/styles/dashboard.module.css */
+
+.infoBlock {
+  margin-top: 20px;
+  font-size: 15px;
+  flex: 1;
+  background-color: #f0f0f0;
+  padding: 1rem;
+  text-align: center;
+  color: #1a3b5d;
+  float: left;
+  width: 320px;
+  margin-right: 20px;
+}
+
+.infoBlock span {
+  color: #3f51b7;
+  font-weight: bold;
+  font-size: 17px;
+  display: block;
+  margin-top: 8px;
+}
+
+.mainContent {
+  background-color: white;
+}

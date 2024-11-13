@@ -1,0 +1,24 @@
+/* src/styles/accounts.module.css */
+
+.accountInfo {
+  display: flex;
+  align-items: center;
+}
+
+.accountInfo img {
+  float: left;
+  margin-right: 10px;
+}
+
+.iban {
+  color: #888;
+  font-size: 0.85rem;
+}
+
+/* Additional CSS for table structure */
+.numberColumn {
+  text-align: right;
+  padding-right: 1rem;
+  color: green;
+  vertical-align: middle;
+}

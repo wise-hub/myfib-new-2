@@ -1,0 +1,16 @@
+/* src/styles/cards.module.css */
+
+.cardInfo {
+  display: flex;
+  align-items: center;
+}
+
+.cardLogo {
+  width: 30px;
+  margin-right: 0.5rem;
+}
+
+.cardMask {
+  color: #888;
+  font-size: 0.85rem;
+}
